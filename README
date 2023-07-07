@@ -1,0 +1,46 @@
+# README
+
+Global Air Quality Indx Analysis for a select Cities and Countries, Python, Pandas, Numpy, MYSQL, Tableau, Data Science, Machine Learning etc.
+
+Overview:
+
+A BooCamp(IronHack) MidTerm Project to ascerain to ascertain student's comprehension of previous lessons. Data is acquired from competent sources like Kaggol, they are cleaned through standardization, checking and handling NaNs. Data saved as csv and in MYSQL, queries are done to merge them, and merged data is used for Eploratory data Analysis(EDA) for further standrdization.
+
+Standardised data is put to use by creating plots to check normality, skewness etc., and adjustments are made to the data by checking for correlation and binning them while creating histograms. Scatter plots maps also created to add understanding to the data for easy communication and inferences wit regards Air Quality distribution in the select cities ad countries.
+
+Furthermore, data is tested for statistical significance to see the level of pollution or Air Quality status of the select cities and countries in line with Global standars. Finally, data is further visualised with the help of Tableau to enhance the story telling process during presentation.
+
+Key Steps:
+
+The following steps are covered:
+
+. Jupyter NoteBook(Python) for anylysis
+
+. MySQL for queries
+
+. Git and Git WorkFlow:
+
+  . git add
+  
+  . git commit
+  
+  . git branch
+  
+  . git push
+  
+  . git push
+  
+ Objectives:
+ 
+ . Checking and building on previous knowledge
+ 
+ . Exploring the usage of Python tools, MYSQL and Tableau
+ 
+ . Using same tools to work on the data in order to tell a story that ordinarily cannot be seen by just looking at the raw data
+ 
+ . To demonstrate how story telling gives meaning to the data and intension of the analyst through visualisation. 
+  
+  
+Presentation Link:
+
+https://docs.google.com/presentation/d/1rFNSPWLsZOUSkGdwWUXYIWnxKWG-70IRoBA1bnEKWRQ/edit#slide=id.g250af5d1c34_0_60

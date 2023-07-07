@@ -1,0 +1,71 @@
+country,city,aqi_value,aqi_category,co_aqi_value,co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2_5_aqi_value,pm2_5_aqi_category,latitude,longitude,co2
+China,Hangzhou,203,Very Unhealthy,5,Good,203,Very Unhealthy,5,Good,151,Unhealthy,30.25,120.1675,147.99179395802918
+France,Marseille,59,Moderate,1,Good,37,Good,6,Good,59,Moderate,43.2964,5.37,4.842957088583162
+United States of America,Moscow,30,Good,1,Good,19,Good,4,Good,30,Good,55.7558,37.6178,444.9242251950718
+United States of America,Moscow,30,Good,1,Good,19,Good,4,Good,30,Good,46.7308,-116.9986,444.9242251950718
+Republic of Korea,Seoul,421,Hazardous,27,Good,0,Good,91,Moderate,415,Hazardous,37.56,126.99,332.8067655331964
+Viet Nam,Hanoi,181,Unhealthy,4,Good,181,Unhealthy,1,Good,145,Unhealthy for Sensitive Groups,21.0283,105.8542,45.009536805656936
+Turkey,Istanbul,59,Moderate,1,Good,33,Good,1,Good,59,Moderate,41.0136,28.955,74.24991534246575
+Malaysia,Kuala Lumpur,76,Moderate,2,Good,41,Good,2,Good,76,Moderate,3.1478,101.6953,67.47100222354015
+Japan,Tokyo,79,Moderate,1,Good,28,Good,17,Good,79,Moderate,35.6897,139.6922,589.6798710198494
+Australia,Canberra,24,Good,0,Good,24,Good,1,Good,11,Good,-35.2931,149.1269,2.9660462237664236
+India,Delhi,500,Hazardous,1,Good,44,Good,2,Good,446,Hazardous,28.61,77.23,118.52242520807667
+India,Delhi,500,Hazardous,1,Good,44,Good,2,Good,446,Hazardous,37.4306,-120.7759,118.52242520807667
+United States of America,Chicago,64,Moderate,2,Good,12,Good,20,Good,64,Moderate,41.8375,-87.6866,314.86059686516086
+El Salvador,Berlin,69,Moderate,2,Good,8,Good,15,Good,69,Moderate,52.52,13.405,54.24208324435318
+El Salvador,Berlin,69,Moderate,2,Good,8,Good,15,Good,69,Moderate,41.6114,-72.7758,54.24208324435318
+El Salvador,Berlin,69,Moderate,2,Good,8,Good,15,Good,69,Moderate,44.4869,-71.2599,54.24208324435318
+Germany,Munich,45,Good,1,Good,25,Good,3,Good,45,Good,48.1375,11.575,18.779267581643836
+Finland,Helsinki,162,Unhealthy,5,Good,17,Good,15,Good,162,Unhealthy,60.1708,24.9375,13.292859251882271
+China,Shanghai,156,Unhealthy,4,Good,156,Unhealthy,8,Good,152,Unhealthy,31.1667,121.4667,374.2592541970803
+Peru,Lima,110,Unhealthy for Sensitive Groups,4,Good,16,Good,9,Good,110,Unhealthy for Sensitive Groups,-12.06,-77.0375,23.946746404197082
+Peru,Lima,110,Unhealthy for Sensitive Groups,4,Good,16,Good,9,Good,110,Unhealthy for Sensitive Groups,40.741,-84.112,23.946746404197082
+Peru,Lima,110,Unhealthy for Sensitive Groups,4,Good,16,Good,9,Good,110,Unhealthy for Sensitive Groups,-23.9,-56.3333,23.946746404197082
+France,Nice,54,Moderate,1,Good,43,Good,2,Good,54,Moderate,43.7034,7.2663,2.1131573183436005
+China,Jinan,210,Very Unhealthy,7,Good,210,Very Unhealthy,8,Good,168,Unhealthy,36.6667,116.9833,136.6502169753762
+Thailand,Bangkok,69,Moderate,1,Good,25,Good,1,Good,69,Moderate,13.7525,100.4942,133.4778649760438
+China,Qingdao,232,Very Unhealthy,21,Good,16,Good,28,Good,232,Very Unhealthy,36.1167,120.4,164.44240634746922
+United States of America,Rome,67,Moderate,2,Good,7,Good,9,Good,67,Moderate,41.8931,12.4828,21.877332447638604
+United States of America,Rome,67,Moderate,2,Good,7,Good,9,Good,67,Moderate,34.2662,-85.1863,21.877332447638604
+United States of America,Rome,67,Moderate,2,Good,7,Good,9,Good,67,Moderate,43.226,-75.4909,21.877332447638604
+Norway,Oslo,39,Good,1,Good,39,Good,0,Good,14,Good,59.9133,10.7389,6.613204076043806
+France,Lyon,107,Unhealthy for Sensitive Groups,2,Good,24,Good,4,Good,107,Unhealthy for Sensitive Groups,45.76,4.84,5.475710712464066
+United States of America,Houston,103,Unhealthy for Sensitive Groups,2,Good,7,Good,14,Good,103,Unhealthy for Sensitive Groups,29.786,-95.3885,173.35806889801506
+Italy,Milan,67,Moderate,1,Good,37,Good,4,Good,67,Moderate,45.4669,9.19,11.86084654236824
+China,Chongqing,283,Very Unhealthy,19,Good,0,Good,58,Moderate,283,Very Unhealthy,29.55,106.5069,64.53268900091241
+China,Chengdu,386,Hazardous,28,Good,0,Good,64,Moderate,386,Hazardous,30.66,104.0633,82.58420470711678
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,-33.4372,-70.6506,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,19.4572,-70.6889,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,16.6833,121.55,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,8.1004,-80.9833,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,-29.1919,-54.8669,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,25.4333,-100.1333,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,9.2654,125.5602,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,17.2947,120.4453,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,9.8291,-84.3044,44.063897512662564
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate,-14.1892,-75.7126,44.063897512662564
+United States of America,Seattle,36,Good,1,Good,31,Good,5,Good,36,Good,47.6211,-122.3244,84.46150970568104
+United Kingdom of Great Britain and Northern Ireland,London,40,Good,1,Good,11,Good,11,Good,40,Good,51.5072,-0.1275,83.57237623778234
+United Kingdom of Great Britain and Northern Ireland,London,40,Good,1,Good,11,Good,11,Good,40,Good,42.9836,-81.2497,83.57237623778234
+United Kingdom of Great Britain and Northern Ireland,London,40,Good,1,Good,11,Good,11,Good,40,Good,39.8935,-83.4375,83.57237623778234
+Netherlands,Amsterdam,38,Good,0,Good,38,Good,0,Good,30,Good,52.3728,4.8936,35.08347514579056
+Netherlands,Amsterdam,38,Good,0,Good,38,Good,0,Good,30,Good,42.942,-74.1906,35.08347514579056
+China,Suzhou,141,Unhealthy for Sensitive Groups,2,Good,141,Unhealthy for Sensitive Groups,2,Good,78,Moderate,33.6333,116.9683,202.30797228010948
+China,Suzhou,141,Unhealthy for Sensitive Groups,2,Good,141,Unhealthy for Sensitive Groups,2,Good,78,Moderate,31.3,120.6194,202.30797228010948
+China,Nanjing,185,Unhealthy,4,Good,185,Unhealthy,7,Good,143,Unhealthy for Sensitive Groups,32.0608,118.7789,172.17010367153284
+South Africa,Cape Town,149,Unhealthy for Sensitive Groups,2,Good,15,Good,4,Good,149,Unhealthy for Sensitive Groups,-33.9253,18.4239,23.749605887686517
+Venezuela (Bolivarian Republic of),Barcelona,163,Unhealthy,4,Good,8,Good,8,Good,163,Unhealthy,41.3825,2.1769,27.10370950821355
+Venezuela (Bolivarian Republic of),Barcelona,163,Unhealthy,4,Good,8,Good,8,Good,163,Unhealthy,10.1333,-64.6833,27.10370950821355
+Venezuela (Bolivarian Republic of),Barcelona,163,Unhealthy,4,Good,8,Good,8,Good,163,Unhealthy,12.8694,124.1419,27.10370950821355
+Colombia,Madrid,96,Moderate,3,Good,7,Good,11,Good,96,Moderate,40.4169,-3.7033,42.174406927173166
+Colombia,Madrid,96,Moderate,3,Good,7,Good,11,Good,96,Moderate,4.7344,-74.2683,42.174406927173166
+Colombia,Madrid,96,Moderate,3,Good,7,Good,11,Good,96,Moderate,9.2619,125.9647,42.174406927173166
+United States of America,Vancouver,49,Good,1,Good,20,Good,10,Good,49,Good,49.25,-123.1,36.81828487308394
+United States of America,Vancouver,49,Good,1,Good,20,Good,10,Good,49,Good,45.6366,-122.5967,36.81828487308394
+Turkey,Ankara,44,Good,1,Good,44,Good,0,Good,36,Good,39.93,32.85,20.87093254771898
+United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,48.8567,2.3522,83.98918491170431
+United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,33.6688,-95.546,83.98918491170431
+United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,36.2933,-88.3065,83.98918491170431
+United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,38.2016,-84.2718,83.98918491170431
+United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,39.6148,-87.6903,83.98918491170431
+United States of America,Saint Petersburg,54,Moderate,1,Good,21,Good,9,Good,54,Moderate,59.95,30.3167,107.38238159854015
